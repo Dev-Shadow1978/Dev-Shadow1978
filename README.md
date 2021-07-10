@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dev-Shadow1978
+- 👀 I’m interested in Python and C++
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on application projects
+- 📫 My G-mail yadukrishnan8c@gmail.com
